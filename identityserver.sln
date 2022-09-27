@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "identityclient", "identityclient\identityclient.csproj", "{63AC60D9-1B5F-40E8-8D18-B22883C01A38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sampleapi", "sampleapi\sampleapi.csproj", "{B16CA071-C224-4F97-9797-371FFD372AD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "duendeids", "duendeids\duendeids.csproj", "{46461E84-46A5-40B5-9C0D-8149FE9BDD5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63AC60D9-1B5F-40E8-8D18-B22883C01A38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63AC60D9-1B5F-40E8-8D18-B22883C01A38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63AC60D9-1B5F-40E8-8D18-B22883C01A38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63AC60D9-1B5F-40E8-8D18-B22883C01A38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B16CA071-C224-4F97-9797-371FFD372AD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B16CA071-C224-4F97-9797-371FFD372AD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B16CA071-C224-4F97-9797-371FFD372AD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B16CA071-C224-4F97-9797-371FFD372AD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46461E84-46A5-40B5-9C0D-8149FE9BDD5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46461E84-46A5-40B5-9C0D-8149FE9BDD5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46461E84-46A5-40B5-9C0D-8149FE9BDD5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46461E84-46A5-40B5-9C0D-8149FE9BDD5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
